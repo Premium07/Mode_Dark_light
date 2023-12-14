@@ -1,4 +1,4 @@
-// changing body bd color
+// changing body background color
 
 // let modeBtn = document.querySelector("#mode");
 // let currMode = "light";
